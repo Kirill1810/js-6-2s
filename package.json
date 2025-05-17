@@ -1,0 +1,25 @@
+{
+  "name": "js-6-2s",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kirill1810/js-6-2s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kirill1810/js-6-2s/issues"
+  },
+  "homepage": "https://github.com/Kirill1810/js-6-2s#readme",
+  "description": "",
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "parcel": "^2.15.1",
+    "parsel": "^0.3.0"
+  }
+}
